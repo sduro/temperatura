@@ -15,3 +15,4 @@ Para que se ejecute la lectura de la temperatura cada 5 minutos.
 Crontab -e
 */5 * * * * python3 /home/pi/plottemp/datagen.py && /home/pi/plottemp/plottemp.sh &> /dev/null
 ```
+
