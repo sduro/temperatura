@@ -5,7 +5,7 @@ Raspberry con el sensor de temperatura y humedad DHT11 (+/-1ºC)
 * Temperatura externa: Hace la lectura del sensor DHT11.
 * Humedad: Lectura de humedad del senser DHT11.
 
-# Instalacion
+# Instalación
 Para que se ejecute la lectura de la temperatura cada 5 minutos.
 ```
 Crontab -e
